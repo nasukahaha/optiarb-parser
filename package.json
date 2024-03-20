@@ -1,0 +1,39 @@
+{
+  "name": "optiarb-parser",
+  "version": "1.0.0",
+  "description": "Parse arbitrage data with an advanced parser, ensuring accurate and reliable data processing.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nasukahaha/optiarb-parser"
+  },
+  "author": "nasukahaha",
+  "license": "MIT",
+  "dependencies": {
+    "optiarb-parser": "1.0.0",
+    "optiarb-parser-usage": "1.0.0",
+    "dotenv": "1.0.0",
+    "express": "1.0.0",
+    "ethers": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "async": "1.0.0",
+    "fs-extra": "1.0.0",
+    "mocha": "1.0.0",
+    "body-parser": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "node-sass": "1.0.0",
+    "sinon": "1.0.0",
+    "cheerio": "1.0.0",
+    "underscore": "1.0.0",
+    "web3-utils": "1.0.0",
+    "moment": "1.0.0",
+    "redux": "1.0.0",
+    "react-redux": "1.0.0",
+    "web3": "1.0.0",
+    "eslint": "1.0.0",
+    "bcrypt": "1.0.0"
+  }
+}
